@@ -1,5 +1,6 @@
 {
 "name" : "shade",
 "symbol" : "deepdark",
+"compat_prefix": "deepdark",
 "data_url" : "https://script.google.com/macros/s/AKfycbzRii9jG-4yHnN5wCl95EMphAHzzM3t-jQyrrXw13zLGe8HQTp2dTi32G5gNNefGcNQgg/exec"
 }
